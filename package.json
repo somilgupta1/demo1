@@ -1,0 +1,20 @@
+{
+  "name": "demo1",
+  "version": "1.0.0",
+  "description": "demo Hello",
+  "main": "app.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/somilgupta1/demo1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/somilgupta1/demo1/issues"
+  },
+  "homepage": "https://github.com/somilgupta1/demo1#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
